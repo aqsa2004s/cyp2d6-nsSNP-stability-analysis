@@ -1,4 +1,4 @@
-# In Silico Pharmacogenomic Analysis of Human CYP2D6 nsSNPs
+# In Silico Pharmacogenomic Analysis of Human CYP2D6 nsSNPs [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2365700.svg)](https://doi.org/10.5281/zenodo.2365700)
 
 ## 🧬 Biological Context
 Cytochrome P450 2D6 (CYP2D6) is a crucial liver enzyme responsible for the metabolism of approximately 25% of clinically administered drugs. Non-synonymous single nucleotide polymorphisms (nsSNPs) in the *CYP2D6* gene can lead to altered enzyme activity, resulting in adverse drug reactions or therapeutic failure. 
